@@ -1,5 +1,5 @@
 # Application de Prévision Météorologique avec Emojis
-https://blue-0.github.io/app-meteo/
+https://blue-0.github.io/App-meteo/
 ## Introduction
 
 Cette application web réactive affiche les prévisions météorologiques en utilisant une approche visuelle basée sur des emojis. Conçue avec React et stylisée avec Tailwind CSS, elle offre une manière ludique et intuitive de consulter les prévisions météo, y compris la température, les précipitations, les heures de lever et coucher du soleil, et la vitesse du vent.
